@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "453021088637",
+    "firebase_url": "https://ricefieldirrigation-default-rtdb.firebaseio.com",
+    "project_id": "ricefieldirrigation",
+    "storage_bucket": "ricefieldirrigation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453021088637:android:f87a96c2d365201db72a14",
+        "android_client_info": {
+          "package_name": "com.example.ricefieldirrigation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453021088637-hg92rjnu8q7jrpl99nlsempuqegflinj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ricefieldirrigation",
+            "certificate_hash": "51884f20999be4bbc04a74f831b37ad42932736a"
+          }
+        },
+        {
+          "client_id": "453021088637-7p9e6vsg8s9d7t5tgjj8atn3v14t61t9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoaD5YyVtF21_pNWLi8SZjyy3D-0EsclI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453021088637-7p9e6vsg8s9d7t5tgjj8atn3v14t61t9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
